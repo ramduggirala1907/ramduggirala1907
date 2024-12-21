@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramduggirala1907
+- 👋 Hi, I’m @Ramduggirala
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning SOC Analyst
 - 💞️ I’m looking to collaborate on various projects based on Security or Red Team
